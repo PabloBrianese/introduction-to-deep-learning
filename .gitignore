@@ -1,4 +1,4 @@
 
 **/.ipynb_checkpoints/*
-**/*.hdf
-**/*.h5
+*.hdf
+*.h5
